@@ -62,19 +62,19 @@ var pages = [
 var links=[
 {
   link:"https://www.facebook.com/willtsay/",
-  icon:"images/facelogo.png"
+  icon:"/images/facelogo.png"
 },
 {
   link:"https://github.com/willtsay/",
-  icon:"images/githlogo.png"
+  icon:"/images/githlogo.png"
 },
 {
   link:"https://twitter.com/willtsay/",
-  icon:"images/twitlogo.png"
+  icon:"/images/twitlogo.png"
 },
 {
   link:"https://www.linkedin.com/in/williamtsay",
-  icon:"images/linklogo.png"
+  icon:"/images/linklogo.png"
 }
 ]
 
