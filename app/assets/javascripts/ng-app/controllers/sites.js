@@ -107,14 +107,14 @@ var projects = [
 ]
 
 var icons = [
-{ location: "images/icons/css3.png"},
-{ location: "images/icons/git.png"},
-{ location: "images/icons/ruby.png"},
-{ location: "images/icons/html5.png"},
-{ location: "images/icons/jquery.png"},
-{ location: "images/icons/js.png"},
-{ location: "images/icons/json.png"},
-{ location: "images/icons/postgres.png"},
-{ location: "images/icons/python.png"},
-{ location: "images/icons/ror.png"},
+{ location: "/images/icons/css3.png"},
+{ location: "/images/icons/git.png"},
+{ location: "/images/icons/ruby.png"},
+{ location: "/images/icons/html5.png"},
+{ location: "/images/icons/jquery.png"},
+{ location: "/images/icons/js.png"},
+{ location: "/images/icons/json.png"},
+{ location: "/images/icons/postgres.png"},
+{ location: "/images/icons/python.png"},
+{ location: "/images/icons/ror.png"},
 ]
