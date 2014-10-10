@@ -32,7 +32,7 @@ var pages = [
   index:0,
   title: "about",
   content: "Hi I'm Will! I'm a full stack ruby developer living in the bay area. Aside from coding, I love cooking and drawing. I am currently looking for work. You can find me with these blobs.",
-  partial:"templates/about.html"
+  partial:"about.html"
 },
 {
   index:1,
