@@ -1,0 +1,18 @@
+<nav class="centered">
+  <a ng-repeat="page in pages" href="" ng-click="selectTab(page.index)">{{page.title}}</a>
+</nav>
+
+<div class="title centered">
+  WILLIAM TSAY<br>
+  FULL STACK DEVELOPER
+</div>
+
+<div ng-repeat="page in pages" ng-show="isSelected(page.index)">
+  <h1 class="section centered">{{page.title.toUpperCase()}}</h1>
+  <div class="content centered push-right push-left">
+    {{page.content}}
+  </div>
+
+  <div ng-include="page.partial"></div>
+
+</div>
