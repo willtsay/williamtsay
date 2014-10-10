@@ -8,6 +8,7 @@ angular
       .state('home', {
         url: '/',
         templateUrl: 'home.html',
+        controller: 'SiteController'
       })
     $urlRouterProvider.otherwise('/')
     $locationProvider.html5Mode(true)
