@@ -102,7 +102,7 @@ var projects = [
   {
     name: "MIXD Clone",
     description: "a clone of the MIXD website",
-    link: "http://williamtsay.com/mixd.html"
+    link: "http://williamtsay.com/mixd"
   }
 ]
 
