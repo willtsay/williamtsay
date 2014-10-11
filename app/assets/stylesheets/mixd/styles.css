@@ -36,20 +36,6 @@ button {
   background-color: rgba(0,0,0,0);
 }
 
-nav { 
-  display:inline-block;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: 0px;
-  margin-right: 0px;
-  font-size: 1em;
-  font-weight: 900;
-  float:right;
-  margin-right: 3%;
-  text-align: justify;
-  letter-spacing:2px;
-}
-
 a:link {text-decoration: none;}
 a:visited {text-decoration: none;}
 a:hover {text-decoration:underline;}

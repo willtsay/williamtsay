@@ -1,1 +1,1 @@
-Rails.application.config.assets.precompile += %w( mixd.css mixd.js )
+Rails.application.config.assets.precompile += %w( mixd.css mixd/classie.js mixd/push.js )
